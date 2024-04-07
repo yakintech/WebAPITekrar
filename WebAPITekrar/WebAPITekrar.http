@@ -1,0 +1,6 @@
+@WebAPITekrar_HostAddress = http://localhost:5156
+
+GET {{WebAPITekrar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
